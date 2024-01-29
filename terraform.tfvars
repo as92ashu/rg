@@ -1,10 +1,15 @@
-rgs ={
+rgs = {
 
-    rg1={
+  rg1 = {
 
-        name = "ashu-rg"
-        location= "eastus"
-    }
+    name     = "ashu-rg"
+    location = "eastus"
+  },
+  rg2 = {
+
+    name     = "RAM-rg"
+    location = "Central India"
+  }
 
 
 }
