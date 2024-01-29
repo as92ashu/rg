@@ -3,13 +3,13 @@ rgs = {
   rg1 = {
 
     name     = "ashu-rg"
-    location = "eastus"
+    location = "CentralIndia"
   },
-  rg2 = {
+#   rg2 = {
 
-    name     = "RAM-rg"
-    location = "Central India"
-  }
+#     name     = "RAM-rg"
+#     location = "Central India"
+#   }
 
 
 }
