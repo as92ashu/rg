@@ -5,11 +5,11 @@ rgs = {
     name     = "ashu-rg"
     location = "CentralIndia"
   },
-#   rg2 = {
+  rg2 = {
 
-#     name     = "RAM-rg"
-#     location = "Central India"
-#   }
+    name     = "shyam-rg"
+    location = "Central India"
+  }
 
 
 }
