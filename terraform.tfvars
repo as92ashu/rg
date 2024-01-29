@@ -11,8 +11,13 @@ rgs = {
     location = "Central India"
   },rg3 = {
 
+<<<<<<< HEAD
     name     = "jaggu-rg"
     location = "Central India"
+=======
+    name     = "ruchin-rg"
+    location = "eastus"
+>>>>>>> feature/ruchin-rg
   }
 
 
